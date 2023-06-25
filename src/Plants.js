@@ -13,15 +13,21 @@ export var plants = [
     },
     {
         "name": "Choke cherry",
-        "scientific": "Prunus virginiana"
+        "scientific": "Prunus virginiana",
+        "image": "Choke_cherry.jpg",
+        "credit": "https://commons.wikimedia.org/wiki/User:DouglasGoldman"
     },
     {
-        "name": "Cascara",
-        "scientific": "Rhamnus purshiana"
+        "name": "Cascara buckthorn",
+        "scientific": "Rhamnus purshiana",
+        "image": "Cascara_buckthorn.jfif",
+        "credit": "https://en.wikipedia.org/wiki/User:Jrtayloriv"
     },
     {
         "name": "Red-osier dogwood",
-        "scientific": "Cornus sericea"
+        "scientific": "Cornus sericea",
+        "image": "Red_osier_dogwood.jpg",
+        "credit": "https://commons.wikimedia.org/wiki/User:Ron_Clausen"
     },
     {
         "name": "Beaked hazelnut",
@@ -41,11 +47,15 @@ export var plants = [
     },
     {
         "name": "Pacific wax-myrtle",
-        "scientific": "Myrica californica"
+        "scientific": "Myrica californica",
+        "image": "Pacific_wax_myrtle.jpg",
+        "credit": "https://commons.wikimedia.org/wiki/User:Kenraiz"
     },
     {
         "name": "Mock orange",
-        "scientific": "Philadelphus lewisii"
+        "scientific": "Philadelphus lewisii",
+        "image": "Mock_orange.jpg",
+        "credit": "https://commons.wikimedia.org/wiki/User:ThayneT"
     },
     {
         "name": "Red-flowering currant",
@@ -67,19 +77,27 @@ export var plants = [
     },
     {
         "name": "Blue elderberry",
-        "scientific": "Sambucus cerulea"
+        "scientific": "Sambucus cerulea", 
+        "image": "Blue_elderberry.jpg",
+        "credit": "https://commons.wikimedia.org/wiki/User:Kenraiz"
     },
     {
         "name": "Red elderberry",
-        "scientific": "Sambucus racemosa"
+        "scientific": "Sambucus racemosa",
+        "image": "Red_elderberry.jpg",
+        "credit": "https://commons.wikimedia.org/wiki/User:Robert_Flogaus-Faust"
     },
     {
         "name": "Snowberry",
-        "scientific": "Symphoricarpos albus"
+        "scientific": "Symphoricarpos albus",
+        "image": "Snowberry.jfif",
+        "credit": "https://en.wikipedia.org/wiki/User:Jrtayloriv"
     },
     {
         "name": "Goat’s beard",
-        "scientific": "Aruncus diocius"
+        "scientific": "Aruncus diocius",
+        "image": "Aruncus_dioicus.jpg",
+        "credit": "https://commons.wikimedia.org/wiki/User:Robert_Flogaus-Faust"
     },
     {
         "name": "Western skunk cabbage",
@@ -100,8 +118,10 @@ export var plants = [
         "credit": "https://pixabay.com/users/ghostpotato-37770226/"
     },
     {
-        "name": "Lady fern Athyrium",
-        "scientific": "filix-femina"
+        "name": "Lady fern",
+        "scientific": "Athyrium filix-femina",
+        "image": "Athyrium_filix-femina.jpg",
+        "credit": "https://commons.wikimedia.org/wiki/User:Kenraiz"
     },
     {
         "name": "Deer fern",
@@ -121,15 +141,21 @@ export var plants = [
     },
     {
         "name": "Coastal strawberry",
-        "scientific": "Fragaria chiloensis"
+        "scientific": "Fragaria chiloensis",
+        "image": "Fragaria_chiloensis.jpg",
+        "credit": "https://commons.wikimedia.org/wiki/User:Nova"
     },
     {
         "name": "Woodland strawberry",
-        "scientific": "Fragaria vesca"
+        "scientific": "Fragaria vesca",
+        "image": "Fragaria_vesca.jpg",
+        "credit": "https://commons.wikimedia.org/wiki/User:LC-de"
     },
     {
         "name": "False lily-of-the-valley",
-        "scientific": "Maianthemum dilatatum"
+        "scientific": "Maianthemum dilatatum",
+        "image": "Maianthemum_dilatatum.JPG",
+        "credit": "https://en.wikipedia.org/wiki/User:Wsiegmund"
     },
     {
         "name": "Sword fern",
@@ -137,7 +163,9 @@ export var plants = [
     },
     {
         "name": "Fringecup",
-        "scientific": "Tellima grandiflora"
+        "scientific": "Tellima grandiflora",
+        "image": "Fringecup.jpg",
+        "credit": "https://commons.wikimedia.org/wiki/User:Nova"
     }
 ];
 
