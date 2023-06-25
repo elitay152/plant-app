@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/plant-app/static/css/main.9a94e103.css",
+    "main.js": "/plant-app/static/js/main.a2c68536.js",
+    "static/js/787.775735cd.chunk.js": "/plant-app/static/js/787.775735cd.chunk.js",
+    "index.html": "/plant-app/index.html",
+    "main.9a94e103.css.map": "/plant-app/static/css/main.9a94e103.css.map",
+    "main.a2c68536.js.map": "/plant-app/static/js/main.a2c68536.js.map",
+    "787.775735cd.chunk.js.map": "/plant-app/static/js/787.775735cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a94e103.css",
+    "static/js/main.a2c68536.js"
+  ]
+}
